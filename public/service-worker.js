@@ -1,13 +1,13 @@
 // Uncomment the lines below to set up the cache files
 //
-const CACHE_NAME = 'my-site-cache-v1';
-const DATA_CACHE_NAME = 'data-cache-v1';
+const CACHE_NAME = 'my-site-cache-v2';
+const DATA_CACHE_NAME = 'data-cache-v2';
 
 const FILES_TO_CACHE = [
   '/',
   '/index.html',
   '/manifest.json',
-  '/css/style.css',
+  '/css/styles.css',
   '/icons/icon-72x72.png',
   '/icons/icon-96x96.png',
   '/icons/icon-128x128.png',
