@@ -1,7 +1,7 @@
 // Uncomment the lines below to set up the cache files
 //
-const CACHE_NAME = 'my-site-cache-v2';
-const DATA_CACHE_NAME = 'data-cache-v2';
+const CACHE_NAME = 'my-site-cache-v1';
+const DATA_CACHE_NAME = 'data-cache-v1';
 
 const FILES_TO_CACHE = [
   '/',
@@ -16,7 +16,8 @@ const FILES_TO_CACHE = [
   '/icons/icon-192x192.png',
   '/icons/icon-384x384.png',
   '/icons/icon-512x512.png',
-  '/js/index.js'
+  '/js/index.js',
+  '/js/idb.js'
 ];
 
 // Install the service worker
